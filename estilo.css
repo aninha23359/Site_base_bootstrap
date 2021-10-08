@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+.col{
+    background-color: gray;
+}
+.container{
+    margin-top:20px;
+    border-radius: 15px;
+}
